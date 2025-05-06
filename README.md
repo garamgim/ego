@@ -1,1 +1,1 @@
-# parfait-server
+# parfait
